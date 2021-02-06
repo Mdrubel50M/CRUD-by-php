@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,600;1,300&family=Roboto:ital,wght@0,100;0,500;1,400&display=swap');
+/*golobal css*/
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size:16px;
+}
+h1,h2,h3,h4{
+
+	font-family: 'Roboto', sans-serif;
+}
+.titler{
+	font-size: 30px !important;
+}
+/* all_user_section start*/
+.alluser-t{
+font-size:30px;
+text-transform: uppercase;
+text-align: center;
+margin-top: 40px;
+padding-bottom: 15px;
+}
+.Aurid{
+	padding-left: 20px;
+}
+.teble{
+	padding:20px;
+	text-transform: uppercase;
+}
+/* regestision section */
+.titler{
+	text-align: center;
+	padding-top: 20px;
+}
+.reg-section label{
+	color:#fff;
+	font-weight: 700;
+}
+.reg-section{
+	margin-top: 50px;
+	padding: 40px;
+}
+.reg-section .col-md-4{
+	background-color:#2e2e;
+	border-radius: 10px;
+}
+.reg-section input{
+	margin-bottom: 20px;
+}
